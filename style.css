@@ -17,11 +17,12 @@
     height:50px;
     width:100px;
 }
+
 .logo{
     background-image: url("Amazon Clone (Resources)/amazon_logo.png");
-    background-size:cover;
+    background-size:cover ;
     height:50px;
-    width:100%;
+    width:100px;
 }
 .border{
     border:1.5px solid transparent;
@@ -221,12 +222,7 @@ ul a {
     align-items:center;
 
 }
-.logo{
-    background-image: url("amazon_logo.png");
-    background-size:cover ;
-    height:50px;
-    width:100px;
-}
+
 .foot-panel4{
     background-color: #0f1111;
     color:white;
